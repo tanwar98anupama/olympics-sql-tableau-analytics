@@ -2,7 +2,7 @@
    PROJECT: 120 Years of Olympic Games – SQL Analysis
    DATABASE: Olympics_SQL
    TABLES: athletes, athlete_events
-   AUTHOR: Anupama (Anu) – SQL Server
+   AUTHOR: Anupama – SQL Server
    ============================================================ */
 
 
